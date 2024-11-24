@@ -5,11 +5,11 @@
 </head>
 <body>
     <?php 
-        $name = "Nur Ariffin Mohd Zin";
-        $matricNumber = "A1234567";
+        $name = "WAN HASYRAF BIN ABD RAHMAN";
+        $matricNumber = "CI230079";
         $course = "Bachelor of Computer Science";
         $yearOfStudy = "Year 2";
-        $address = "123 Jalan Universiti, 50603 Kuala Lumpur";
+        $address = "123 Jalan Universiti, KOKDIANG";
     ?>
 
     <table border="1">
